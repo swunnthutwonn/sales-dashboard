@@ -1,0 +1,21 @@
+
+/* Custom Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+html, body, [class*=st-]{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Sidebar Styling */
+.css-1lcbmhc {
+    background-color: #2C2F38 !important;
+}
+
+/* Custom Buttons */
+.stButton>button {
+    background-color: #F39C12 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    font-size: 16px !important;
+}

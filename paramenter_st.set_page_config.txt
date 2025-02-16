@@ -1,0 +1,6 @@
+Parameter	Description	Example Values
+page_title	Sets the title of the browser tab	"Sales Dashboard"
+page_icon	Sets the favicon (can be an emoji or image URL)	"📊", "🔥", "https://example.com/favicon.png"
+layout	Controls page width	"wide" (full width), "centered" (default)
+initial_sidebar_state	Controls sidebar behavior	"auto", "expanded", "collapsed"
+menu_items	Customizes the menu options in the top-right corner	{ "Get Help": "https://help.url", "Report a bug": "https://bug.url" }
